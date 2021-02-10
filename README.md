@@ -56,7 +56,7 @@
     </div>
 
   <div class="form-group">
-      <p>Would you recommend freeCodeCamp to a friend?</p>
+      <p>Would you recommend to a friend?</p>
       <label>
         <input
           name="user-recommend"
@@ -87,7 +87,7 @@
 
    <div class="form-group">
       <p>
-        What is your favorite feature of freeCodeCamp?
+        What is your favorite feature of Instagram?
       </p>
       <select id="most-like" name="mostLike" class="form-control" required>
         <option disabled selected value>Select an option</option>
