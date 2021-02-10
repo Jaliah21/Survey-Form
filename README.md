@@ -1,7 +1,7 @@
 # Survey-Form
 <div class="container">
   <header class="header">
-    <h1 id="title" class="text-center">freeCodeCamp Survey Form</h1>
+    <h1 id="title" class="text-center">Survey Form</h1>
     <p id="description" class="description text-center">
       Thank you for taking the time to help us improve the platform
     </p>
@@ -55,7 +55,7 @@
       </select>
     </div>
 
-    <div class="form-group">
+  <div class="form-group">
       <p>Would you recommend freeCodeCamp to a friend?</p>
       <label>
         <input
@@ -75,7 +75,7 @@
         />Maybe</label
       >
 
-      <label
+   <label
         ><input
           name="user-recommend"
           value="not-sure"
@@ -85,7 +85,7 @@
       >
     </div>
 
-    <div class="form-group">
+   <div class="form-group">
       <p>
         What is your favorite feature of freeCodeCamp?
       </p>
@@ -98,13 +98,13 @@
       </select>
     </div>
 
-    <div class="form-group">
+  <div class="form-group">
       <p>
         What would you like to see improved?
         <span class="clue">(Check all that apply)</span>
       </p>
 
-      <label
+   <label
         ><input
           name="prefer"
           value="front-end-projects"
@@ -194,7 +194,7 @@
       >
     </div>
 
-    <div class="form-group">
+  <div class="form-group">
       <p>Any comments or suggestions?</p>
       <textarea
         id="comments"
@@ -204,7 +204,7 @@
       ></textarea>
     </div>
 
-    <div class="form-group">
+   <div class="form-group">
       <button type="submit" id="submit" class="submit-button">
         Submit
       </button>
